@@ -1,4 +1,4 @@
-package com.cg.banking.beans
+package com.cg.banking.beans;
 
 public class Address {
 	private String city,state,country;
